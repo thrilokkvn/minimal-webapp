@@ -1,0 +1,48 @@
+# Maven target directory
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Compiled class files
+*.class
+
+# Package files
+*.war
+*.jar
+
+# Maven wrapper (optional)
+.mvn/wrapper/maven-wrapper.jar
+
+# Node modules (if frontend tooling added later)
+node_modules/
+
+# Environment files
+.env
+
+# Tomcat generated files
+apache-tomcat/
+work/
+temp/
+logs/
