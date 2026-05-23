@@ -7,4 +7,4 @@ COPY target/minimal-webapp.war \
 
 EXPOSE 8080
 
-CMD [\"catalina.sh\", \"run\"]
+CMD ["catalina.sh", "run"]
